@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://timelessovertrendy.github.io</id>
+    <title>Gridea</title>
+    <updated>2020-06-02T19:03:35.473Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://timelessovertrendy.github.io"/>
+    <link rel="self" href="https://timelessovertrendy.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://timelessovertrendy.github.io/images/avatar.png</logo>
+    <icon>https://timelessovertrendy.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[想见你。。。]]></title>
+        <id>https://timelessovertrendy.github.io/post/xiang-jian-ni/</id>
+        <link href="https://timelessovertrendy.github.io/post/xiang-jian-ni/">
+        </link>
+        <updated>2020-06-02T18:16:19.000Z</updated>
+        <content type="html"><![CDATA[<p>今天看“想见你”看到第12集，还有一集了，明天看！</p>
+<p>哇  李子维真的太让人喜欢了。他是我关于青春期男孩的所有幻想，虽然我现在有男票，但是还是会陷入这种偶像剧的桥段无法自拔啊！</p>
+<p>许光汉饰演的李子维和王诠胜，真的演的很不错。李子维-很开朗，做自己，直白的大男孩。王诠胜-安静，有想法，很勇敢细腻的小男生。在许光汉这里都变得鲜活了起来～ 真的看到王诠胜18岁的时候，哇，不敢相信自己的眼睛居然是同一个演员饰演的，截然不同的感觉。虽然许的脸看起来很小，在没看过他演的戏之前我会觉得他有点像gay的感觉，但是由于演技过于自然，所以就是演什么像什么！</p>
+<p>柯佳嬿饰演的黄雨萱和陈韵如，也非常的棒。在看这部剧之前，我看了柯佳嬿x理科太太的采访视频，就知道了她是个内向女孩，但是当看到她演戏的时候，还是觉得，哇，这个演员要演出黄雨萱这样的大胆的 直爽的性格还是很不容易的。这个演员也是一个很有内涵的女生，能从她的眼睛看出来很多故事。</p>
+<p>不得不说，演员真的很厉害，厉害的演员会演的让你看不出这个人原本的性格，会让观众代入角色中，然后开始好奇这个演员本身的性格，这就是演员这个职业熠熠生辉闪闪发光的地方吧！</p>
+<p>她/他用电影电视剧的方式演绎出了不同类型的人不同的性格，让我们这些平凡的人能够窥见不一样的人生，让我会开始思考这个世界上除了我，我家人，我朋友之外的世界上的人，他们会过怎么样的生活，有着怎么样的磨难和无奈，却仍然热爱这个世界，坚强的活下去，又或者，过完了凄惨的一生。</p>
+<p>可能我是一个对生活感受很深，心思敏感的人，一点点的举动就会很大的感触，所以我很想要看很多影视作品或者读书，来了解这个世界，了解这个世界上和我差别很大的人，这种感觉特别棒。。。</p>
+<p>btw，插曲“someday or one day” 和“想见你想见你想见你”真的好听哦～</p>
+<p>6/3/2020 北京时间 2:36pm</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://timelessovertrendy.github.io/post/hello-gridea/</id>
+        <link href="https://timelessovertrendy.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
